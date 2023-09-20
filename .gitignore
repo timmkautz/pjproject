@@ -86,3 +86,13 @@ tests/fuzz/*.o
 cov-int/
 getversion.mak
 configure.out
+*/Release/*
+*.tlog
+*.dll
+*.recipe
+*.log
+*.obj
+*.iobj
+*.ipdb
+*.user
+/pjsipdll/x64/Release/pjsipdll.vcxproj.FileListAbsolute.txt
